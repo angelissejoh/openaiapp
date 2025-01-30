@@ -1,4 +1,4 @@
-st.image("https://www.workitdaily.com/media-library/artificial-intelligence-ai-technology-concept.jpg?id=34199573&width=1200&height=800&quality=85&coordinates=84%2C0%2C84%2C0", caption="AI-Powered Streamlit App")
+st.image("https://www.vecteezy.com/vector-art/539808-ai-artificial-intelligence-concept-illustration", caption="AI-Powered Streamlit App")
 import streamlit as st
 import requests
 import json
