@@ -1,4 +1,4 @@
-st.image("https://www.vecteezy.com/vector-art/539808-ai-artificial-intelligence-concept-illustration", caption="AI-Powered Streamlit App")
+st.image("https://images.unsplash.com/photo-1566241440091-ec10de22f1c8", caption="AI-Powered Streamlit App")
 import streamlit as st
 import requests
 import json
