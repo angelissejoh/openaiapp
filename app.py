@@ -1,4 +1,4 @@
-st.image("https://incubator.ucf.edu/wp-content/uploads/2023/07/artificial-intelligence-new-technology-science-futuristic-abstract-human-brain-ai-technology-cpu-central-processor-unit-chipset-big-data-machine-learning-cyber-mind-domination-generative-ai-scaled-1-2048x1366.jpg", caption="AI-Powered Streamlit App")
+st.image("https://www.google.com/search?q=artificial+intelligence&sa=X&sca_esv=356fde0d7956eb37&sxsrf=AHTn8zrLTuq6mKleQ-fLPI10GkqHPt5Yug:1738268934274&udm=2&fbs=ABzOT_CWdhQLP1FcmU5B0fn3xuWpmDtIGL1r84kuKz6yAcD_igefx-eKq1gCPHF3zhthFomUWD4JA37sWEIpiDUfp9ifT00vAGdPFkOGPm3VHD5VzNCCjT2sslLwt2FTfl2F7UcokuNmBRMB7KKIvvc4SevbL4YbA3PNUzy6QmSD2IiLTrCxGhRg9Bbb8Gbtt7bF927MvJ3fVVMshdL1PhiMrWxY3jTk7g&ved=2ahUKEwji0-eypJ6LAxUMGtAFHVnpDmAQtKgLegQIBBAH&biw=1280&bih=551&dpr=1.5#vhid=_zgbkxm-H-Hj9M&vssid=mosaic", caption="AI-Powered Streamlit App")
 import streamlit as st
 import requests
 import json
