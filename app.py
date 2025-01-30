@@ -1,4 +1,4 @@
-st.image("https://www.google.com/url?sa=i&url=https%3A%2F%2Fincubator.ucf.edu%2Fwhat-is-artificial-intelligence-ai-and-why-people-should-learn-about-it%2F&psig=AOvVaw2ggaBtgYPnG90ElhVuiw_e&ust=1738355342288000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNDV_ryknosDFQAAAAAdAAAAABAE", caption="AI-Powered Streamlit App")
+st.image("https://incubator.ucf.edu/wp-content/uploads/2023/07/artificial-intelligence-new-technology-science-futuristic-abstract-human-brain-ai-technology-cpu-central-processor-unit-chipset-big-data-machine-learning-cyber-mind-domination-generative-ai-scaled-1-2048x1366.jpg", caption="AI-Powered Streamlit App")
 import streamlit as st
 import requests
 import json
