@@ -1,3 +1,4 @@
+st.image("https://www.google.com/url?sa=i&url=https%3A%2F%2Fincubator.ucf.edu%2Fwhat-is-artificial-intelligence-ai-and-why-people-should-learn-about-it%2F&psig=AOvVaw2ggaBtgYPnG90ElhVuiw_e&ust=1738355342288000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNDV_ryknosDFQAAAAAdAAAAABAE", caption="AI-Powered Streamlit App")
 import streamlit as st
 import requests
 import json
