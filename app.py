@@ -1,4 +1,4 @@
-st.image("https://images.app.goo.gl/ww4Vhq6g87oimSNS8", caption="AI-Powered Streamlit App")
+image("https://images.app.goo.gl/ww4Vhq6g87oimSNS8", caption="AI-Powered Streamlit App")
 import streamlit as st
 import requests
 import json
