@@ -1,4 +1,4 @@
-st.image("https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.iotworldtoday.com%2Frobotics%2Fhumanoid-robot-startup-figure-ai-unveils-next-generation-robot&psig=AOvVaw3FFhpuz43ua9MKVN-ooFEk&ust=1738420813448000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCOjCxKuYoIsDFQAAAAAdAAAAABAE", caption="AI-Powered Streamlit App")
+st.image("https://images.app.goo.gl/ww4Vhq6g87oimSNS8", caption="AI-Powered Streamlit App")
 import streamlit as st
 import requests
 import json
