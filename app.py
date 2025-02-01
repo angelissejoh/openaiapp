@@ -1,5 +1,5 @@
 import streamlit as st
-st.image("https://sl.bing.net/bL7veLrbVEy", caption="AI-Powered Streamlit App")
+st.image("https://incubator.ucf.edu/wp-content/uploads/2023/07/artificial-intelligence-new-technology-science-futuristic-abstract-human-brain-ai-technology-cpu-central-processor-unit-chipset-big-data-machine-learning-cyber-mind-domination-generative-ai-scaled-1.jpg", caption="AI-Powered Streamlit App")
 import requests
 import json
 import base64
