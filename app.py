@@ -1,5 +1,5 @@
-st.image("https://your-image-url.com", caption="AI-Powered Streamlit App")
 import streamlit as st
+st.image("https://sl.bing.net/bL7veLrbVEy", caption="AI-Powered Streamlit App")
 import requests
 import json
 import base64
